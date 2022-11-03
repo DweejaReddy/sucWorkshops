@@ -42,7 +42,7 @@
 		  </div>
 		  <div class="row clearfix">
 			<div class="">
-			  <form>
+			  <form action="store_details.php">
 				<div class="input_field">
 				  <input type="text" name="name" placeholder="Name" required />
 				</div>
